@@ -1,2 +1,2 @@
 # teachingGitflow
-Teaching my co-friend about Gitflow
+Teaching my co-worker about Gitflow
